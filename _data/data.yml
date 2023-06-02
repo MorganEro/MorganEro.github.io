@@ -13,19 +13,10 @@ sidebar:
 
     # Sidebar links
     email: morganero1@gmail.com
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    timezone: United States, America/Chicago
+    website:  #do not add http://
+    linkedin: morgan-ero
+    github: MorganEro
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -34,22 +25,16 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Working out
           link:
 
-        - item: Snowboarding
+        - item: Figure Drawing
           link:
 
-        - item: Cooking
+        - item: Dancing
           link:
 
 career-profile:

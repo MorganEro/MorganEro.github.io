@@ -83,36 +83,23 @@ experiences:
         company: Orange Theory Fitness
         details: |
           I was hired because the owner loved how I coached her daughters in Gymnastics. I had no work experience as a coach at this time.
-          After 3 years of working for the company, I was promoted to head trainer. I learned a lot about managing people and my time while 
-          with this company.
+          After 3 years of working for the company, I was promoted to head trainer and asked to work at 3 of her other locations. I learned 
+          a lot about managing people and my time while with this company.
             - Coached Group Fitness classes of up to 34 Attendants
             - Collaborated with Clients and Staff to reach common goals
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My capstone projects for NSS.
     assignments:
-      - title: Velocity
+      - title: Recomp Resource
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A Full Stack web application allowing users to view, save, and comment on resources that help then reach their
+        body composition goals. I continue to add functionality as I learn more."
 
-      - title: DevStudio
+      - title: Mogo Gym
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive website using React and JSON server that allows clients to schedule gym sessions with their trainers."
 
 oss:
     title: OSS Contributions

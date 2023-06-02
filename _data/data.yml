@@ -9,11 +9,10 @@ sidebar:
     # Profile information
     name: Morgan Ero
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: morganero1@gmail.com
-    phone: 012 345 6789
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://

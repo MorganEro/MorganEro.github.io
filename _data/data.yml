@@ -93,12 +93,12 @@ projects:
       My capstone projects for NSS.
     assignments:
       - title: Recomp Resource
-        link: "#hook"
+        link: "https://github.com/MorganEro/Recomp_Resource"
         tagline: "A Full Stack web application allowing users to view, save, and comment on resources that help then reach their
         body composition goals. I continue to add functionality as I learn more."
 
       - title: Mogo Gym
-        link: "#"
+        link: "https://github.com/MorganEro/mogo-gym-capstone"
         tagline: "A responsive website using React and JSON server that allows clients to schedule gym sessions with their trainers."
 
 oss:

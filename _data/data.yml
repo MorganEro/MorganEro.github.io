@@ -38,14 +38,15 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Career Objective
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My aim is to leverage my knowledge in Full Stack web development to contribute to
+      the success of a dynamic organization that values innovation, collaboration, and
+      creativity. As a skilled developer with experience in both front-end and back-end
+      development, I am committed to delivering high-quality solutions that meet the needs
+      of clients and end-users. With a passion for learning and a dedication to staying up-to-date 
+      with the latest technologies, I am excited to join a team where I can continue to
+      grow my skills while making a meaningful impact on the world of web development.
 education:
     title: Education
     info:

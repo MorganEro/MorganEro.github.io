@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Morgan Ero
-    tagline: Full Stack Developer
+    tagline: Front-End Web Developer
     avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,13 +42,16 @@ sidebar:
 career-profile:
     title: Career Objective
     summary: |
-      My aim is to leverage my knowledge in Full Stack web development to contribute to
-      the success of a dynamic organization that values innovation, collaboration, and
-      creativity. As a skilled developer with experience in both front-end and back-end
-      development, I am committed to delivering high-quality solutions that meet the needs
-      of clients and end-users. With a passion for learning and a dedication to staying up-to-date 
-      with the latest technologies, I am excited to join a team where I can continue to
-      grow my skills while making a meaningful impact on the world of web development.
+      My goal is to leverage my expertise in front-end web development to create 
+      engaging, user-centric experiences for dynamic organizations that value 
+      innovation and creativity. As a dedicated developer with a strong foundation 
+      in UI/UX principles and modern front-end technologies, I am passionate about 
+      turning ideas into visually compelling and functional web applications. 
+      Committed to continuous learning and staying ahead of industry trends, I strive
+      to deliver high-quality solutions that delight users and meet business 
+      objectives. I am excited to collaborate with forward-thinking teams where 
+      I can further refine my skills and make a meaningful impact in the world of 
+      web development.
 education:
     title: Education
     info:
